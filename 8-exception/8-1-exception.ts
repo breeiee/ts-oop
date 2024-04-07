@@ -1,0 +1,4 @@
+{
+  // Java: Exception
+  // JS: Error
+}
